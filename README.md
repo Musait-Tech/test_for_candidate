@@ -21,10 +21,9 @@ There is no need to
 ### Technologies to be used:
 * Typescript 
 * NestJS
-* Unit test(Jest)
-* E2E test(Super test)
+* Unit test(Jest) (Optional)
 * Docker
-* Swagger
+* Swagger or Postman
 * Postgres(Knex)
 
 ### Notes:
@@ -47,14 +46,10 @@ There is no need to
 > *  do backend stuff.
 
 ### Technologies to be used:
-* Reactjs/Vuejs
-* Nextjs/Nuxtjs
+* Reactjs/Nextjs
 * Typescript
 * Tailwind
-* Mobx/Pinia
-* Any mock server package
-* Vitest / (react / vue) testing library
-* E2E / cypress
+* Redux toolkit
 
 ### Functionalities to be implemented:
 * Create a task
@@ -67,7 +62,6 @@ There is no need to
 * Search through all the tasks
 
 ### Notes:
-* Use (in react: **Mobx**) (in vue: **Pinia**)
 * Implement drag and drop using pointer events. (it is forbidden to use ready-made dnd libraries, do not use onDrag, it is required to implement dnd using pointer events)
 * You need to implement the project according to the **keywords** provided to you.
 * Optional Functionality - Implement the **WebSocket client** for the above functionalities.
