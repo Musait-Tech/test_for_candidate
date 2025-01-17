@@ -24,7 +24,7 @@ There is no need to
 * Unit test(Jest) (Optional)
 * Docker
 * Swagger or Postman
-* Postgres(Knex)
+* Postgres (TypeORM)
 
 ### Notes:
 * You need to implement the project according to the **keywords** provided to you.
@@ -48,8 +48,8 @@ There is no need to
 ### Technologies to be used:
 * Reactjs/Nextjs
 * Typescript
-* Tailwind
-* Redux toolkit
+* Antd
+* Redux toolkit | Zustand
 
 ### Functionalities to be implemented:
 * Create a task
